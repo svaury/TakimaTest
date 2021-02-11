@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KataTakima</string>
+    <string name="convertButton">Convertir</string>
+    <string name="result">Resultat ici !</string>
+</resources>
